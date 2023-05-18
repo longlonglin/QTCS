@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-Fast Query-Centered Temporal Community Search via Time-Constrained Personalized PageRank
+Fast Query-Centered Temporal Community Search
 
 
 ## Environment Setup
