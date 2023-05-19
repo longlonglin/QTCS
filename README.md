@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-Fast Query-Centered Temporal Community Search
+QTCS: Efficient Query-Centered Temporal Community Search
 
 
 ## Environment Setup
