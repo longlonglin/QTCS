@@ -17,11 +17,17 @@ We focus on mining the temporal network so each edge is associated with a timest
 | :----:  |:----: | :----:   |:----:   | :----: |
 
 Rmin can be downloaded from http://konect.cc/networks/mit/, Aug. 2021
+
 Lyon and Thiers can be downloaded from http://konect.cc/networks/mit/, Aug. 2021 or http://snap.stanford.edu/data/index.html
+
 Facebook can be downloaded from  http://konect.cc/networks/facebook-wosn-wall/, Aug. 2021.
-Twitter can be downloaded from http://snap.stanford.edu/data/higgs-twitter.html, Aug. 2021
+
+Twitter can be downloaded from http://snap.stanford.edu/data/higgs-twitter.html, Aug. 2021.
+
 Enron can be downloaded from http://konect.cc/networks/enron-rm/, Aug. 2021.
+
 Lkml can be downloaded from http://konect.cc/networks/lkml-reply/, Aug. 2021.
+
 DBLP can be downloaded from http://konect.cc/networks/dblp coauthor/, Aug. 2021 or https://dblp.uni-trier.de/xml/.
 
 ## Running example
