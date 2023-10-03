@@ -16,19 +16,19 @@ We focus on mining the temporal network so each edge is associated with a timest
 | from_id | \t  | to_id    | \t  |  timestamps  |
 | :----:  |:----: | :----:   |:----:   | :----: |
 
-Rmin can be downloaded from http://konect.cc/networks/mit/, Aug. 2021
+Rmin can be downloaded from http://konect.cc/networks/mit/
 
-Lyon and Thiers can be downloaded from http://konect.cc/networks/mit/, Aug. 2021 or http://snap.stanford.edu/data/index.html
+Lyon and Thiers can be downloaded from http://www.sociopatterns.org/datasets/co-location-data-for-several-sociopatterns-data-sets/
 
-Facebook can be downloaded from  http://konect.cc/networks/facebook-wosn-wall/, Aug. 2021.
+Facebook can be downloaded from  http://konect.cc/networks/facebook-wosn-wall/
 
-Twitter can be downloaded from http://snap.stanford.edu/data/higgs-twitter.html, Aug. 2021.
+Twitter can be downloaded from http://snap.stanford.edu/data/higgs-twitter.html
 
-Enron can be downloaded from http://konect.cc/networks/enron-rm/, Aug. 2021.
+Enron can be downloaded from http://konect.cc/networks/enron-rm/
 
-Lkml can be downloaded from http://konect.cc/networks/lkml-reply/, Aug. 2021.
+Lkml can be downloaded from http://konect.cc/networks/lkml-reply/
 
-DBLP can be downloaded from http://konect.cc/networks/dblp coauthor/, Aug. 2021 or https://dblp.uni-trier.de/xml/.
+DBLP can be downloaded from http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ 
 
 ## Running example
 python qtcs.py  facebook-wall.txt.anon_day
