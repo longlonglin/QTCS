@@ -2,7 +2,7 @@
 
 This repository contains a reference implementation of the algorithms for the paper:
 
-QTCS: Efficient Query-Centered Temporal Community Search
+QTCS: Efficient Query-Centered Temporal Community Search. To appear in VLDB2024
 
 
 ## Environment Setup
