@@ -38,19 +38,6 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 | DBLP | http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ |
 
 
-Rmin can be downloaded from http://konect.cc/networks/mit/
-
-Lyon and Thiers can be downloaded from http://www.sociopatterns.org/datasets/co-location-data-for-several-sociopatterns-data-sets/
-
-Facebook can be downloaded from  http://konect.cc/networks/facebook-wosn-wall/
-
-Twitter can be downloaded from http://snap.stanford.edu/data/higgs-twitter.html
-
-Enron can be downloaded from http://konect.cc/networks/enron-rm/
-
-Lkml can be downloaded from http://konect.cc/networks/lkml-reply/
-
-DBLP can be downloaded from http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ 
 
 ## Running example
 python qtcs.py  facebook-wall.txt.anon_day
