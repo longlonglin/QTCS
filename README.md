@@ -1,6 +1,4 @@
-# Code for QTCS Algorithm
-
-This repository contains a reference implementation of the following paper. QTCS: Efficient Query-Centered Temporal Community Search.  Please contact longlonglin@swu.edu.cn for any questions
+# This repository contains a reference implementation of the following paper. QTCS: Efficient Query-Centered Temporal Community Search.
 
 
 # Environment Setup
@@ -72,6 +70,5 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
       time_reducing(s)0.002406597137451172
 
 Our model has only one parameter, ``alpha``, which ranges from 0 to 1, and its default value is 0.2. If you want to change ``alpha``, you can modify it in line 553 of qtcs.py.
-
 
 
