@@ -27,11 +27,11 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 | Datasets | URLs  |
-| :----:  |:----: | :----:   |:----:   | :----: |
+| :----:  |:----: | 
 | Datasets | URLs  |
-| :----:  |:----: | :----:   |:----:   | :----: |
+| :----:  |:----: | 
 | Datasets | URLs  |
-| :----:  |:----: | :----:   |:----:   | :----: |
+| :----:  |:----: |
 
 Rmin can be downloaded from http://konect.cc/networks/mit/
 
