@@ -36,7 +36,6 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 | Enron | http://konect.cc/networks/enron-rm/ |
 | Lkml | http://konect.cc/networks/lkml-reply/|
 | DBLP | http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ |
-| :----:  |:----: | 
 
 
 Rmin can be downloaded from http://konect.cc/networks/mit/
