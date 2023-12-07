@@ -29,13 +29,11 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 
- ## Ubuntu
-      cd ./TSE-Aroc/off-chain-patch-generation-system/Aroc/
-      mkdir build
-      cd build
-      cmake ..
-      make
-  The executable file called `aroc` will be in the folder build/aroc/
+ ## Running Example
+ You may use git to clone the repository from GitHub and run it manually like this:
+      git clone https://github.com/longlonglin/QTCS.git
+      cd QTCS
+      python qtcs.py xx
 
 
 
