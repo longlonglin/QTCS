@@ -39,39 +39,40 @@ If you have any questions, please contact longlonglin@swu.edu.cn
       python qtcs.py data/Facebook
   The running results are as follows
   
-      facebook-wall.txt.anon_day is loading...
-      loading_graph_time(s)4.515358924865723
-      number of nodes: 45813
-      number of static edges: 183412.0
-      number of temporal edges: 585743.0
-      number of timestamps: 1473
-      self.tmax:552
-      compute_ttp_time(s)119.09577298164368
-      seed33203
-      time_tppr(s)2.995162010192871
-      egr_time(s)4.52646541595459
-      time_expanding(s)0.36696600914001465
-      time_reducing(s)0.016901016235351562
-      seed55564
-      time_tppr(s)0.3347628116607666
-      egr_time(s)1.1299402713775635
-      time_expanding(s)4.870069742202759
-      time_reducing(s)1.2183952331542969
-      seed5343
-      time_tppr(s)2.8038454055786133
-      egr_time(s)4.327779769897461
-      time_expanding(s)0.0963292121887207
-      time_reducing(s)0.011249542236328125
-      seed27543
-      time_tppr(s)29.35983681678772
-      egr_time(s)30.91551446914673
-      time_expanding(s)3.698026180267334
-      time_reducing(s)0.19061565399169922
-      seed39873
-      time_tppr(s)6.759989023208618
-      egr_time(s)8.80293869972229
-      time_expanding(s)0.11980819702148438
-      time_reducing(s)0.002406597137451172
+      data/Facebook is loading...
+     loading_graph_time(s)4.507202625274658
+     number of nodes: 45813
+     number of static edges: 183412.0
+     number of temporal edges: 585743.0
+     number of timestamp: 1473
+     self.tmax:552
+     compute_ttp_time(s)113.53539848327637
+     seed25115
+     time_tppr(s)2.2104275226593018
+     egr_time(s)3.710035562515259
+     time_expanding(s)0.10440444946289062
+     time_reducing(s)0.013033390045166016
+     seed8401
+     time_tppr(s)83.49688935279846
+     egr_time(s)85.08008170127869
+     time_expanding(s)39.289947748184204
+     time_reducing(s)0.5261859893798828
+     seed16973
+     time_tppr(s)2.932955265045166
+     egr_time(s)5.026332855224609
+     time_expanding(s)1.946237325668335
+     time_reducing(s)0.24632477760314941
+     seed38625
+     time_tppr(s)20.524596691131592
+     egr_time(s)22.073683977127075
+     time_expanding(s)2.5056912899017334
+     time_reducing(s)0.0404210090637207
+     seed29551
+     time_tppr(s)1.3863840103149414
+     egr_time(s)2.8778045177459717
+     time_expanding(s)0.025407791137695312
+     time_reducing(s)0.0007688999176025391
+
 
 Our model has only one parameter, ``alpha``, which ranges from 0 to 1, and its default value is 0.2. If you want to change ``alpha``, you can modify it in line 553 of qtcs.py.
 
