@@ -29,12 +29,14 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 
- ## Running Example
+ # Running Example
   You may use git to clone the repository from GitHub and run it manually like this:
   
       git clone https://github.com/longlonglin/QTCS.git
       cd QTCS
       python qtcs.py facebook-wall.txt.anon_day
+  The running results are as follows
+  
       facebook-wall.txt.anon_day is loading...
       loading_graph_time(s)4.515358924865723
       number of nodes: 45813
@@ -69,7 +71,7 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
       time_expanding(s)0.11980819702148438
       time_reducing(s)0.002406597137451172
 
-
+Our model has only one parameter ``alpha \in [0,1]``, and its default value is 0.2. If you want to change ``alpha``, you can modify it in line 553 of qtcs.py.
 
 
 
