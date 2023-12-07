@@ -29,14 +29,13 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 
-## Running example
-cd ./TSE-Aroc/off-chain-patch-generation-system/Aroc/
+ ## Ubuntu
+      cd ./TSE-Aroc/off-chain-patch-generation-system/Aroc/
       mkdir build
       cd build
       cmake ..
       make
   The executable file called `aroc` will be in the folder build/aroc/
-python qtcs.py  facebook-wall.txt.anon_day
 
 
 
