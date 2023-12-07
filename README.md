@@ -1,4 +1,4 @@
-# This repository contains a reference implementation of the following paper. QTCS: Efficient Query-Centered Temporal Community Search.
+# QTCS: Efficient Query-Centered Temporal Community Search.
 
 
 # Environment Setup
