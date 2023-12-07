@@ -30,10 +30,11 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
  ## Running Example
- You may use git to clone the repository from GitHub and run it manually like this:
+  You may use git to clone the repository from GitHub and run it manually like this:
+  
       git clone https://github.com/longlonglin/QTCS.git
       cd QTCS
-      python qtcs.py xx
+      python qtcs.py facebook-wall.txt.anon_day
 
 
 
