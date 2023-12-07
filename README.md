@@ -32,7 +32,7 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
   
       git clone https://github.com/longlonglin/QTCS.git
       cd QTCS
-      python qtcs.py facebook-wall.txt.anon_day
+      python qtcs.py data/facebook-wall.txt.anon_day
   The running results are as follows
   
       facebook-wall.txt.anon_day is loading...
