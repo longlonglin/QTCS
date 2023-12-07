@@ -27,19 +27,12 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 | Datasets | URLs  |
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
 | :----:  |:----: | 
 
