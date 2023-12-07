@@ -12,7 +12,7 @@ We focus on identifying the communities from a temporal network, in which each t
 | from_id | \t  | to_id    | \t  |  timestamps  |
 | :----:  |:----: | :----:   |:----:   | :----: |
 
-Due to the space limit, we only upload some small datasets. But, you can download all datasets used in our paper from the following table or contact longlonglin@swu.edu.cn for details
+Due to the space limit, we only upload some small datasets. But, you can download all original datasets used in our paper from the following table or the preprocessed datasets from https://www.dropbox.com/scl/fo/90casjr51m85wr5l5duhm/h?rlkey=zvgyxhhxxu4qvq6c4iiqvxp5p&dl=0. If you have any questions, please contact longlonglin@swu.edu.cn
 
 | Datasets | URLs  |
 | :----:  |:----: | 
@@ -32,7 +32,7 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
   
       git clone https://github.com/longlonglin/QTCS.git
       cd QTCS
-      python qtcs.py data/facebook-wall.txt.anon_day
+      python qtcs.py data/Facebook
   The running results are as follows
   
       facebook-wall.txt.anon_day is loading...
