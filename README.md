@@ -1,4 +1,4 @@
-# QTCS: Efficient Query-Centered Temporal Community Search.
+# QTCS: Efficient Query-Centered Temporal Community Search
 
 
 # Environment Setup
@@ -6,13 +6,13 @@
 Our algorithms are implemented in Python 3.10.12 and all experiments are executed on a server with  an Intel (R) Xeon (R) E5-2680 v4@2.40GHZ CPU and 256GB RAM running Ubuntu 18.04. 
 
 
-# Dataset description
+# Dataset
 We focus on identifying the communities from a temporal network, in which each temporal edge is associated with a timestamp. In particular, temporal edges are stored in the raw data where each line is one temporal edge.
  
 | from_id | \t  | to_id    | \t  |  timestamps  |
 | :----:  |:----: | :----:   |:----:   | :----: |
 
-Due to the space limit, we only upload some small datasets. But, you can download all datasets used in our paper from the following table
+Due to the space limit, we only upload some small datasets. But, you can download all datasets used in our paper from the following table or contact longlonglin@swu.edu.cn for details
 
 | Datasets | URLs  |
 | :----:  |:----: | 
@@ -27,8 +27,8 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 
 
 
- # Running Example
-  You may use git to clone the repository from GitHub and run it manually like this:
+ # Usage
+  You may use git to clone the repository from GitHub and run it manually like this
   
       git clone https://github.com/longlonglin/QTCS.git
       cd QTCS
