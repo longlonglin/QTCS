@@ -1,8 +1,6 @@
 # Code for QTCS Algorithm
 
-This repository contains a reference implementation of the algorithms for the paper:
-
-QTCS: Efficient Query-Centered Temporal Community Search. To appear in VLDB2024
+This repository contains a reference implementation of the algorithms for QTCS: Efficient Query-Centered Temporal Community Search.
 
 
 ## Environment Setup
