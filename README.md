@@ -29,12 +29,13 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
 | Datasets | URLs  |
 | :----:  |:----: | 
 | Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
-| Rmin | http://konect.cc/networks/mit/|
+| Lyon | http://www.sociopatterns.org/datasets/co-location-data-for-several-sociopatterns-data-sets/|
+| Thiers | http://www.sociopatterns.org/datasets/co-location-data-for-several-sociopatterns-data-sets/|
+|Facebook |  http://konect.cc/networks/facebook-wosn-wall/|
+| Twitter | http://snap.stanford.edu/data/higgs-twitter.html|
+| Enron | http://konect.cc/networks/enron-rm/ |
+| Lkml | http://konect.cc/networks/lkml-reply/|
+| DBLP | http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ |
 | :----:  |:----: | 
 
 
