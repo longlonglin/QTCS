@@ -5,7 +5,7 @@
 
 Our algorithms are implemented in Python 3.10.12 and all experiments are executed on a server with  an Intel (R) Xeon (R) E5-2680 v4@2.40GHZ CPU and 256GB RAM running Ubuntu 18.04. 
 
-Ps: Our code can also run on a desktop with Apple M1 and 8GB RAM running macOS Monterey 12.3  and Inter(R) Core(TM) i7-10700@2.90GHZ and 16 GB RAM running Windows 10. But we recommend you run it on a server because they have enough memory to handle large datasets and run faster.
+Ps: Our code can also run on a desktop with Apple M1 and 8GB RAM running macOS Monterey 12.3  (and Inter(R) Core(TM) i7-10700@2.90GHZ and 16 GB RAM running Windows 10). But we recommend you run it on a server because the server has enough memory to handle large datasets and run faster.
 
 
 # Dataset
