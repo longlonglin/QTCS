@@ -18,7 +18,6 @@ Due to the space limit, we only upload some small datasets. But, you can downloa
     
     https://www.dropbox.com/scl/fo/90casjr51m85wr5l5duhm/h?rlkey=zvgyxhhxxu4qvq6c4iiqvxp5p&dl=0. 
     
-If you have any questions, please contact longlonglin@swu.edu.cn
 
 | Datasets | URLs  |
 | :----:  |:----: | 
@@ -31,7 +30,7 @@ If you have any questions, please contact longlonglin@swu.edu.cn
 | Lkml | http://konect.cc/networks/lkml-reply/|
 | DBLP | http://konect.cc/networks/dblp_coauthor/ or https://dblp.uni-trier.de/xml/ |
 
-
+If you have any questions, please contact longlonglin@swu.edu.cn
 
  # Usage
   You may use git to clone the repository from GitHub and run it manually like this
